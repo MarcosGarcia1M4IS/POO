@@ -1,0 +1,22 @@
+Realice un Apps con: 
+
+1) Ejercicio
+1. Login de  entrada
+2. Menu de opciones:
+	a. Ingresar
+	b.Registrar 
+	c.Realizar tramite
+	d. Imprimir factura
+	e.Salir
+	
+ Nota:
+ se registre una venta de articulos aplique todo lo relacionado a la calse de Progra.
+
+
+2) Realice el metodo de insercion para los siguientes numeros
+
+100, -120, 300, -0.4, 50, 170,115,
+
+
+
+3) Realice un programa que calcule los primeros 6 numeors e la serie de fibonacci
